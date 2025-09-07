@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierreexeter&" alt="pierreexeter" /></p>
 
 <h3 align="left">More about me</h3>
-<p align="left"> [my website](https://pierreaumjaud.com/)</p>
+<p align="left"> <a href="[url](https://pierreaumjaud.com/)">My website</a></p>
 
 <h3 align="left">Support Me</h3>
 <p><a href="https://www.buymeacoffee.com/datasparked"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="datasparked" /></a></p><br><br>
