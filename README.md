@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pierre Aumjaud</h1>
+<h1 align="center">Pierre Aumjaud</h1>
 <p align="left">Data analyst passionate about leveraging data to drive decisions, with expertise in Python, SQL, and machine learning.</p>
 
 <h3 align="left">Languages and Tools</h3>
