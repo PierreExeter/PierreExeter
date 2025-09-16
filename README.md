@@ -12,4 +12,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pierreexeter&show_icons=true&locale=en" alt="pierreexeter" /></p>
 
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierreexeter&" alt="pierreexeter" /></p><br><br>
+==>
