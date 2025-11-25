@@ -1,9 +1,8 @@
 <h1 align="center">Pierre Aumjaud</h1>
-<p align="center">Data Analyst | Analytics Engineer | Data Scientist</p>
 
-<p align="left">
-Data-focused professional transitioning from an academic career after a four-year period of dedicated skills development. Proficient in Data Engineering, Data Analysis, and Data Science, with a proven ability to build and deploy machine learning models. 
-</p>
+Data Analyst | Data Engineer | Data Scientist
+
+Data-focused professional transitioning from an academic career after a four-year period of dedicated skills development. Proficient in **data analysis**, **data engineering**, and **data science**, with a proven ability to build and deploy machine learning models. 
 
 
 ## Tech Stack
