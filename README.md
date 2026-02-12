@@ -1,27 +1,53 @@
 <h1 align="center">Pierre Aumjaud</h1>
 
-<p align="center">Data Analyst | Data Engineer | Data Scientist</p>
+<p align="center">AI Engineer</p>
 
-Data-focused professional transitioning from an academic career after a four-year period of dedicated skills development. Proficient in **data analysis**, **data engineering**, and **data science**, with a proven ability to build and deploy machine learning models. 
+AI Engineer transitioning from academia, with proven expertise in developing autonomous **AI agents**, deploying **machine learning** models, and implementing **RAG-based systems**.
 
 
 ## Tech Stack
 
-**Python** : Scikit-learn | Pytorch | Numpy | Pandas
 
-**Databases** : MySQL | PostgreSQL | DuckDB
+- **AI Engineering**
+  - Agent Orchestration : [LangChain](https://www.langchain.com/) • [LlamaIndex](https://www.llamaindex.ai/)
+  - LLM Inference : [HuggingFace](https://huggingface.co/) • [Ollama](https://ollama.com/)
+  - Vector Database : [Chroma DB](https://www.trychroma.com/)
+  - RAG systems<br />
+<br>
 
-**DevOps** : Git | Docker | Github Actions | Unit tests
+- **Machine Learning**
+  - Predictive Modeling : [Scikit-learn](https://scikit-learn.org/) • [XGBoost](https://xgboost.ai/) • [Pytorch](https://pytorch.org/)
+  - Anomaly Detection
+  - Reinforcement Learning : [Stable-Baselines3](https://stable-baselines3.readthedocs.io/)
+  - Evolutionary Optimisation<br />
+<br>
 
-**Data Integration** : dbt | Snowflake | Azure
+- **Software Engineering**
+  - Programming : [Python](https://www.python.org/)
+  - API : [FastAPI](https://fastapi.tiangolo.com/) • [Flask](https://flask.palletsprojects.com/en/stable/)
+  - Databases : [PostgreSQL](https://www.postgresql.org/) • [DuckDB](https://duckdb.org/) • [SQLAlchemy](https://www.sqlalchemy.org/)
+  - Agentic Coding : [Claude Code](https://claude.com/product/claude-code)
+  - Version Control : [Git](https://git-scm.com/)
+  - CI/CD : [Github Actions](https://github.com/features/actions)
+  - Container : [Docker](https://www.docker.com/)
+  - Unit Testing : [Pytest](https://pytest.org/)
+  - Package Manager : [uv](https://docs.astral.sh/uv/)
+  - Code linter and formatter : [ruff](https://docs.astral.sh/ruff/)
+  - Type Checker : [pyright](https://microsoft.github.io/pyright/#/)<br />
+<br>
 
-**Data Visualisation** : Tableau |  Streamlit | Matplotlib | Seaborn
+- **Data Engineering**
+  - Data Warehouse : [Snowflake](https://www.snowflake.com/)
+  - Data Transformation : [dbt](https://www.getdbt.com/)
+  - ETL Pipeline : [Airbyte](https://airbyte.com/)
+  - Data Orchestration : [Airflow](https://airflow.apache.org/)
+  - Cloud : [Azure](https://azure.microsoft.com/)<br />
+<br>
 
-**Monitoring** : Grafana | Prometheus
-
-**Web Development** : Rest API (Flask) | HTML | CSS
-
-**Autres** : Linux / Bash | Agile / Jira
+- **Data Analytics**
+  - Data Cleaning : [Numpy](https://numpy.org/) • [Pandas](https://pandas.pydata.org/) • [Polars](https://pola.rs/)
+  - Process Monitoring : [Grafana](https://grafana.com/) • [Prometheus](https://prometheus.io/)
+  - Data Visualisation : [Tableau](https://www.tableau.com/) • [Metabase](https://www.metabase.com/) • [Streamlit](https://streamlit.io/) • [Plotly](https://plotly.com/)
 
 
 
